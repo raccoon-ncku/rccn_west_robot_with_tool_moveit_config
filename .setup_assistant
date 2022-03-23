@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: rccn_west_robot_with_tool
+    relative_path: urdf/rccn_west_robot_with_tool.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/rccn_west_robot_with_tool.srdf
+  CONFIG:
+    author_name: ChiaChing Yen
+    author_email: ccyen@umich.edu
+    generated_timestamp: 1648008132
